@@ -20,6 +20,7 @@ gem 'jquery-rails'
 # Rspec testing framework
 group :test, :development do
   gem 'rspec-rails'
+  gem 'guard-rspec'
 end
 # Automated testing
 group :test do
