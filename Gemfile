@@ -14,7 +14,10 @@ gem 'annotate'
 gem 'mechanize'
 # Pretty console output
 gem 'hirb'
-
+# Automate loading development environment
+gem 'consular'
+gem 'consular-gnome-terminal'
+# Jquery
 gem 'jquery-rails'
 
 # Rspec testing framework
