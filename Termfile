@@ -1,0 +1,14 @@
+# Script to load development environment. Runs when "consular start" command is executed
+
+# Create a new terminal window
+window do
+	# Open redcar text editor
+	run 'redcar .'
+	# Start guard, server, and console in new tabs
+	tab 'guard'
+	tab 'rails s' 
+	tab 'rails c --sandbox'
+	# Open new tab to execute additional commands
+	tab 'echo Lets Rock'
+end
+
