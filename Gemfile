@@ -17,6 +17,8 @@ gem 'hirb'
 # Automate loading development environment
 gem 'consular'
 gem 'consular-gnome-terminal'
+# Add color to text outputs
+gem 'colorize'
 # Jquery
 gem 'jquery-rails'
 

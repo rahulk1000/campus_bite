@@ -49,6 +49,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.3.3)
+    colorize (0.5.8)
     consular (1.0.2)
       activesupport
       thor
@@ -181,6 +182,7 @@ DEPENDENCIES
   annotate
   capybara
   coffee-rails (~> 3.2.1)
+  colorize
   consular
   consular-gnome-terminal
   guard-rspec
