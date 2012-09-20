@@ -8,6 +8,8 @@ gem 'rails', '3.2.8'
 gem 'sqlite3'
 
 
+# PostgreSQL database 
+gem 'pg'
 # Document schema in model
 gem 'annotate'
 # Agent to make HTTP requests

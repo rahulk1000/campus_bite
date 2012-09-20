@@ -5,10 +5,25 @@ class String
   end
 end
 
-def route(dining_common, category, http_request_codes) 
+class Nokogiri::XML::NodeSet  
+  def each_food_item
+    subcategory_name = nil                                                
+    self.each do |current_node|
+      # 'current_node' can contain either a subcategory or a food item
+      if current_node[:class] == "cbo_nn_itemGroupRow" 
+        subcategory_name = current_node.content.strip
+      elsif current_node[:class] == 'cbo_nn_itemHover'
+        food_item_name = current_node.content.strip 
+        yield(food_item_name, subcategory_name)
+      end
+    end
+  end 
+end
+
+def route(dining_common, category, browser, http_request_codes)  
   case category
   when :daily_menu then scrape_daily_menu(dining_common, category, http_request_codes) 
-  when :salad_bar then scrape_salad_bar(dining_common, category, http_request_codes) 
+  when :salad_bar then scrape_salad_bar(dining_common, category, browser, http_request_codes) 
   when :condiments then scrape_condiments(dining_common, category, http_request_codes) 
   when :breads_and_cereals then scrape_breads_and_cereals(dining_common, category, http_request_codes) 
   when :beverages then scrape_beverages(dining_common, category, http_request_codes) 
@@ -16,47 +31,29 @@ def route(dining_common, category, http_request_codes)
   end
 end
 
+def fetch_food_item_page(browser, http_request_codes)
+  food_item_page = browser.post('http://netnutrition.housing.ucsb.edu/NetNutrition/Menu.aspx/OpenMenu', 
+                                { unitOid: http_request_codes[0], menuOid: http_request_codes[1] })   
+end
 
 def scrape_daily_menu(dining_common, category, http_request_codes) 
 end
 
-def scrape_salad_bar(dining_common, category, http_request_codes) 
-  salar_bar_file = File.open("#{Rails.root}/lib/tasks/stub_pages/ortega_salad_bar.html")
+def scrape_salad_bar(dining_common, category, browser, http_request_codes) 
+  salad_bar_page = fetch_food_item_page(browser, http_request_codes)
+=begin
+  salar_bar_file = File.open("#{Rails.root}/lib/tasks/stub_pages/ortega_condiments.html")
   salar_bar_doc = Nokogiri::HTML(salar_bar_file)
   salar_bar_file.close
-  
-  subcategory_nodes = salar_bar_doc.xpath('//table[@class="cbo_nn_itemGridTable"]/tr/' + 
-                                          'td[@class="cbo_nn_itemGroupRow"]')
-    next_node = nil                                   
-  subcategory_nodes.each_cons(2) do |subcategory_node, next_subcategory_node|
-    #(subcategory_nodes[index+1]) ? temp = subcategory_nodes[index+1].text : temp = " "
-    p subcategory_node.xpath("//table[@class='cbo_nn_itemGridTable']/tr" +
-                             "[td[@class='cbo_nn_itemHover']]" +
-                             "[preceding-sibling::tr[td[.='#{subcategory_node.text}']]]" +
-                             "[following-sibling::tr[td[.='#{next_subcategory_node.text}']]]").text                                                      
-    puts "\n\n"      
-    next_node = next_subcategory_node
-  end
-  p next_node.xpath("//table[@class='cbo_nn_itemGridTable']/tr" +
-                             "[td[@class='cbo_nn_itemHover']]" +
-                             "[preceding-sibling::tr[td[.='#{next_node.text}']]]").text 
-
-=begin
-  subcategory_and_item_nodes = salar_bar_doc.xpath('//table[@class="cbo_nn_itemGridTable"]' +
-                                                   '/tr/td[@class="cbo_nn_itemGroupRow" or' + 
-                                                   '@class="cbo_nn_itemHover"]')
-  while (curr_node = subcategory_and_item_nodes.first)
-    throw "error processing sub-category" if curr_node[:class] != "cbo_nn_itemGroupRow"
-    # Extract sub-category name
-    sub_category_name = curr_node.content.strip
-    subcategory_and_item_nodes.shift
-    # Extract food items in current sub-category
-    while ((curr_node = subcategory_and_item_nodes.first) && curr_node[:class] == 'cbo_nn_itemHover')
-      food_item = curr_node.content.strip 
-      subcategory_and_item_nodes.shift
-    end
-  end
 =end
+  subcategories_and_items_nodeset = salad_bar_page.search('//table[@class="cbo_nn_itemGridTable"]' +
+                                                          '/tr/td[@class="cbo_nn_itemGroupRow" or' + 
+                                                          '@class="cbo_nn_itemHover"]')
+  throw "couldnt fetch food items and their subcatagories" if subcategories_and_items_nodeset.empty?
+  puts "Salad Bar for #{dining_common}".blue
+  subcategories_and_items_nodeset.each_food_item do |food_item_name, subcategory_name|
+    puts "#{food_item_name}, " + "#{subcategory_name}".yellow
+  end                                               
 end
 
 def scrape_condiments(dining_common, category, http_request_codes) 
