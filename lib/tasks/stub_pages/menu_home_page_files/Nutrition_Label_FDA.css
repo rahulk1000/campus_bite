@@ -1,0 +1,393 @@
+﻿
+.cbo_nn_LabelHeader 
+{	color: #000000;	
+ 	font-family: Arial,sans-serif;
+	font-size: 12px;	
+	font-weight: bold;	
+	padding: 0px;
+	text-align:left !important;
+}
+.cbo_nn_LabelSubHeaderRight 
+{
+	color: #000000;	
+	font-family: "Arial";	
+	font-size: 10px;	
+	font-weight: bold;
+	padding: 0px !important;	
+	width: 100%;
+	text-align:right !important;
+}
+.cbo_nn_LabelSubHeaderLeft
+{
+    color: #000000;	
+	font-family: "Arial";	
+	font-size: 10px;	
+	font-weight: bold;
+	padding: 0px !important;	
+	width: 100%;
+	text-align:left !important;
+}
+.cbo_nn_LabelAmountServed
+{
+    color: #000000;
+    font-family: "Arial";
+    font-size: 10px;
+    font-weight: bold;
+    padding: 0px !important;
+    width: 100%;
+    text-align: left !important;
+}
+.cbo_nn_LabelDailyValue
+{
+    color: #000000;	
+	font-family: "Arial";	
+	font-size: 10px;	
+	font-weight: bold;
+	padding: 0px !important;	
+	width: 100%;
+	text-align:right !important;
+	border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: #000000;
+}
+.cbo_nn_LabelLabel
+{	color: #000000;	
+ 	font-family: Helvetica, Arial,sans-serif;
+	font-weight: bold;	
+	padding: 0px;
+	text-align:left !important;
+}
+.cbo_nn_LabelDetail 
+{
+	font-family: Arial,sans-serif;	
+	padding: 2px;
+	font-size:12px;
+	text-align:left !important;
+}
+.cbo_nn_Ingredients { 
+	width: 100%;
+	white-space:nowrap;
+}
+.cbo_nn_LabelDetailPadded 
+{	font-family: Arial;
+	padding-left: 12px;
+	text-align:left !important;	
+}
+.cbo_nn_LabelHeader 
+{
+	color: #000000;	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 12px;
+	font-weight: bold;	
+	padding: 0px !important;	
+	width: 100%;
+	text-align:left !important;
+	vertical-align:middle !important;
+}
+.cbo_nn_LabelBorderedSubHeader
+{
+	border-bottom: 1px #000000 solid !important;
+	font-size: 10px;
+	text-align:left !important;
+}
+.cbo_nn_LabelBorderedSubHeader TABLE
+{
+	margin-top: 0px !important;
+	padding-top: 0px !important;
+	margin-bottom: 0px !important;	
+	padding-bottom: 0px !important;
+	font-size: 12px;
+	text-align:left !important;
+}
+.cbo_nn_LabelLabel 
+{	color: #000000;
+	font-family: "Arial";	
+	font-weight: bold;	
+	padding: 0px !important;
+	text-align:left !important;
+}
+.cbo_nn_LabelBottomBorderLabel 
+{	border-bottom: 9px #000000 solid !important;
+	color: #000000;	
+	font-family: "Arial";	
+	font-weight: bold;	
+	padding: 0px !important;
+	font-size: 10px;
+	text-align:left !important;
+}
+.cbo_nn_LabelDetail 
+{	color: #000000;	
+ 	font-family: "Arial";	
+ 	padding: 0px !important;
+	text-align:left !important;
+ }
+.cbo_nn_LabelLeftPaddedDetail 
+{	color: #000000;	
+ 	font-family: "Arial";
+	padding-left: 8px !important;
+	font-size: 12px;
+	text-align:right !important;
+}
+.cbo_nn_LabelPrimaryDetail 
+{	color: #000000;
+	font-family: "Arial";	
+	padding-left: 8px !important;	
+	text-align: right !important;	
+	width: 30%;
+}
+.cbo_nn_LabelPrimaryDetailPercent 
+{	color: #000000;	
+ 	font-family: "Arial";
+	padding-left: 8px !important;	
+	text-align: right !important;	
+	width: 30%;
+}
+.cbo_nn_LabelDetailPadded 
+{
+	color: #000000;	
+	font-family: "Arial";	
+	padding-left: 10px;
+}
+.cbo_nn_LabelSecondaryTable 
+{	
+	border-top: 9px #000000 solid !important;
+	margin-left: 0px !important;	
+	padding-left: 0px !important;
+}
+.cbo_nn_SecondaryNutrient 
+{	color: #000000;
+	font-family: "Arial";	
+	padding: 0px;
+	font-size: 11px;	
+	width: 48%;
+	text-align:left !important;
+}
+.cbo_nn_SecondaryNutrientLabel
+{	color: #000000;
+	font-family: "Arial";	
+	padding: 0px;
+	font-size: 11px;	
+	width: 48%;
+	text-align:left !important;
+}
+.cbo_nn_SecondaryNutrientSpacer 
+{	text-align: center !important;	
+ 	vertical-align: middle;
+	width: 4%;
+}
+.cbo_nn_NutritionLabelTable 
+{
+	background-color: #FFFFFF;	
+	border: 2px solid black !important;	
+	color: #000000;
+	font: 1em Arial, Helvetica, sans-serif;	
+	margin: 1px;
+	moz-box-shadow: rgba(0, 0, 0, 0.3) 2px 3px 2px !important;
+	padding: 1px;
+	webkit-box-shadow: rgba(0, 0, 0, 0.3) 2px 3px 2px !important;
+	width: 250px !important;
+}
+.cbo_nn_NutritionLabelTable TD
+{
+	margin-top: 0px !important;	
+	padding-top: 0px !important;
+	margin-bottom: 0px !important;	
+	padding-bottom: 0px !important;
+	background-color: #FFFFFF;
+	text-align: left;
+}
+.cbo_nn_LargeLabelHeader
+{
+    color: #000000;	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 18px;
+	font-weight: bold;	
+	padding: 0px;	
+	width: 100%;
+    text-align:left !important;
+    background-color: #FFFFFF;
+}
+.cbo_nn_LabelIngredients
+{
+    color: #000000;	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 10px;
+	padding: 1px;	
+	width: 100%;
+	text-align: left !important;
+}
+.cbo_nn_LabelIngredientsBold
+{
+    color: #000000;	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 10px;
+	font-weight:bold;
+	padding: 1px;	
+	width: 100%;
+	text-align: left !important;
+}
+.cbo_nn_LabelAllergens
+{
+    color: #000000;	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 10px;
+	padding: 1px;	
+	width: 100%;
+	text-align: left !important;
+}
+.cbo_nn_LabelAllergensBold
+{
+    color: #000000;	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 10px;
+	font-weight:bold;
+	padding: 1px;	
+	width: 100%;
+	text-align: left !important;
+}
+.cbo_nn_LabelDisclaimer
+{
+    color: #000000;	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 10px;
+	padding: 1px;	
+	width: 100%;
+}
+
+
+ /* IE 7, not ie8 or greater.  */
+*+html .cbo_nn_NutritionGridHeaderText
+{
+   writing-mode: bt-rl;
+   /* padding-top here is really padding in front of the text which is the bottom of the display box.  Go IE! */
+   padding-top: 4px;
+}
+ 
+.cbo_nn_NutritionGridHeaderText
+{
+    writing-mode: tb-lr;  
+    filter: flipv fliph;
+    -webkit-transform: rotate(270deg); 
+    -o-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    /* Rotation Origin - no longer necessary
+    -moz-transform-origin: 72px 64px;
+    -webkit-transform-origin: 72px 64px;
+    -o-transform-origin: 72px 64px; */
+    /* ie9 supports -ms-transform but can't use it AND filter:flip, which is required for older ie. 
+    -ms-transform: rotate(270deg);  */
+    white-space: nowrap;
+    overflow:visible !important;
+    width: 15px;
+    text-align: left;
+    padding-top:0px;
+    padding-left: 4px;
+}
+ 
+
+.cbo_nn_NutritionGridHeaderData, .cbo_nn_NutritionGridHeaderPercent
+{
+    width: 30px;
+    min-width: 30px;
+    height: 140px;
+    max-height:140px;
+    text-align: right;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: bottom;
+}
+
+.cbo_nn_NutritionGridButtonBar
+{
+    text-align: right;
+    overflow: auto !important;
+}
+
+.cbo_nn_NutritionGridOverflowDiv
+{
+    overflow: auto !important;
+}
+
+.cbo_nn_NutritionGridItemName
+{
+    min-width: 200px !important;
+}
+
+.cbo_nn_printfriendlyButton
+{
+    background: none repeat scroll 0 0 transparent !important;
+    border: medium none;
+    float: right;
+    height: 32px;
+    margin: 0;
+    padding: 1px;
+    width: 120px;
+}
+
+.cbo_nn_LabelLeftPaddedDetailIncomplete{ color: #990000; text-align: right !important;}
+.cbo_nn_LabelPrimaryDetailIncomplete{  color: #990000; text-align: right !important;}
+.cbo_nn_LabelPrimaryDetailPercentIncomplete{  color: #990000; text-align: right !important;}
+.cbo_nn_SecondaryNutrientIncomplete{  color: #990000; text-align: right !important;}
+.cbo_nn_NutritionGridDataIncomplete{  border: 1px solid #c0c0c0; color: #990000; text-align: center;}
+.cbo_nn_NutritionGridPercentIncomplete{  border: 1px solid #c0c0c0;  color: #990000; text-align: center;}
+.cbo_nn_LabelDetailIncomplete{  color: #990000; text-align: right !important;}
+
+
+.cbo_nn_PleaseWait
+{
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: thin;
+    width: 300px;
+    height: 50px;
+    z-index: 2001;
+    margin-right: auto;
+    margin-left: auto;
+}
+.cbo_nn_PleaseWaitText
+{
+    font-size: 11px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+}
+.cbo_nn_PleaseWait table td
+{
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* Nutrition Grid */
+.cbo_nn_NutritionGridContainerDiv {
+	position: absolute;
+	z-index: 20000 !important;
+	overflow: visible;
+	left: 20px;
+	top: 20px;
+	width: auto;
+	max-width: 95%;
+}
+
+.cbo_nn_NutritionGridHeaderRow
+{            
+}
+.cbo_nn_NutritionGridDetailRow
+{            
+}
+.cbo_nn_NutritionGridSummaryRow
+{
+}
+.cbo_nn_NutritionGridGroupRow
+{
+}
+
+
+/* Nutrition Label Styles */
+.cbo_nn_NutritionLabelDiv {
+	font-size: 10px;
+	position: absolute;
+	right: 5px;
+	top: 120px;
+	z-index: 20000;
+	padding: 2px;
+}
