@@ -102,6 +102,9 @@ GEM
     nokogiri (1.5.5)
     ntlm-http (0.1.1)
     pg (0.14.1)
+    pg_search (0.5.5)
+      activerecord (>= 3)
+      activesupport (>= 3)
     polyglot (0.3.3)
     rack (1.4.1)
     rack-cache (1.2)
@@ -193,6 +196,7 @@ DEPENDENCIES
   libnotify
   mechanize
   pg
+  pg_search
   rails (= 3.2.8)
   rb-inotify
   rspec-rails

@@ -33,7 +33,7 @@ task :scrape_menus => :environment do
       category_name = category_node.content.include?('Daily Menu') ? 'Daily Menu' : category_node.content  
       category_request_code = category_node[:onclick][/\d+/]
       puts "#{dining_common_name}, #{category_name}, #{category_request_code}"
-      #route(dining_common_name, category_name, browser, category_request_code)
+      route(dining_common_name, category_name, browser, category_request_code)
     end
   end
   $f.close

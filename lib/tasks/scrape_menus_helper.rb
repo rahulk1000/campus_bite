@@ -83,6 +83,16 @@ def fetch_food_items(food_items_html, options)
   throw "couldnt fetch food items and their subcatagories" if subcategories_and_items_nodeset.empty?
   $f.puts("\n\n#{options[:category_name]} for #{options[:dining_common_name]} at #{options[:menu_date]} : #{options[:menu_type]}")
   subcategories_and_items_nodeset.each_food_item do |food_item_name, subcategory_name|
+    food_item_obj = FoodItem.new(name: food_item_name, 
+                                 dining_common: options[:dining_common_name],
+                                 category: options[:category_name],
+                                 subcategory: subcategory_name,
+                                 date: options[:menu_date],
+                                 meal_type: options[:menu_type])
+    unless food_item_obj.save
+      puts "Error for #{food_item_name} in #{options[:category_name]} in #{options[dining_common_name]}"  
+    end
+               
     $f.puts("\t#{food_item_name}, #{subcategory_name}") 
   end
 end

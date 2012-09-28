@@ -10,6 +10,8 @@ gem 'sqlite3'
 
 # PostgreSQL database 
 gem 'pg'
+# Full text searching in PostgreSQL database 
+gem 'pg_search'
 # Document schema in model
 gem 'annotate'
 # Agent to make HTTP requests
