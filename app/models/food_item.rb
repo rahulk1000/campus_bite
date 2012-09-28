@@ -20,6 +20,9 @@ class ValidDateValidator < ActiveModel::EachValidator
   end
 end
 class FoodItem < ActiveRecord::Base
+  # Full text searching
+  include PgSearch
+  pg_search_scope :search_by_name, against: [:name, :subcategory], using: { tsearch: { dictionary: 'english' } }
   attr_accessible :category, :date, :dining_common, :meal_type, :name, :subcategory
   before_validation :strip_whitespace
 
