@@ -10,28 +10,14 @@ task :scrape_menus => :environment do
     a.user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:13.0) Gecko/20100101 Firefox/13.0.1'
   end
   # Fetch menu home page, set session cookie in 'browser'
-  browser.get(MENU_HOME_URL)   
-=begin
-  # Fetch all the nodes that contian information needed to fetch information on each dining common
-  menu_home_doc = Nokogiri::HTML(File.open("#{Rails.root}/lib/tasks/stub_pages/menu_home_page.html"))
+  menu_home_page = browser.get(MENU_HOME_URL)   
   
-  request_info_nodeset = menu_home_doc.xpath("//ul[@class='cbo_nn_unitTreeListDiv']/li" +
-                                             "[@class='collapsed'][last()=4]/a/@onclick[parent::a" +
-                                             "[.='Ortega' or .='De La Guerra' or .='Carrillo' or .='Portola']]")  
-                          
-  dining_commons_info = nil
-  request_info_nodeset.each do |request_node|   
-    request_info = request_node.content[/\d+/]
-    dining_commons_info = browser.post(REQUEST_INFO_URL, unitOid: request_info ).content
-  end
-  #throw "couldnt fetch info on dining commons" if dining_commons_info.nil?
-=end
-  dining_commons_info_doc = Nokogiri::HTML(File.open("#{Rails.root}/lib/tasks/stub_pages/dining_commons_info.html"))  
+  #dining_commons_info_doc = Nokogiri::HTML(File.open("#{Rails.root}/lib/tasks/stub_pages/dining_commons_info.html"))  
   # Fetch all nodesets containg information on each of the dining commons
-  dining_commons_nodeset = dining_commons_info_doc.xpath("//ul[@class='cbo_nn_unitTreeListDiv']/li" +
-                                                         "[@class='expanded'][a[.='Ortega' or " + 
-                                                         ".='De La Guerra' or .='Carrillo' or .='Portola']]" +
-                                                         "[ul][last()=4]")
+  dining_commons_nodeset = menu_home_page.search("//ul[@class='cbo_nn_unitTreeListDiv']/li" +
+                                                 "[@class='expanded'][a[.='Ortega' or " + 
+                                                 ".='De La Guerra' or .='Carrillo' or .='Portola']]" +
+                                                 "[ul][last()=4]")
   throw "error fetching dining commons information" if dining_commons_nodeset.empty?
   # Iterate through the each dining common
   dining_commons_nodeset.each do |dining_common_node|
@@ -50,7 +36,6 @@ task :scrape_menus => :environment do
       #route(dining_common_name, category_name, browser, category_request_code)
     end
   end
-  route('Ortega', 'Salad Bar', browser, 3)
   $f.close
 end
 
