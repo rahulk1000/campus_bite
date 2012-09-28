@@ -25,6 +25,9 @@ gem 'consular-gnome-terminal'
 gem 'colorize'
 # Jquery
 gem 'jquery-rails'
+# Haml
+gem 'haml-rails'
+
 
 # Rspec testing framework
 group :test, :development do
