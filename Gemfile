@@ -27,7 +27,8 @@ gem 'colorize'
 gem 'jquery-rails'
 # Haml
 gem 'haml-rails'
-
+# Bootstrap
+gem 'bootstrap-sass'
 
 # Rspec testing framework
 group :test, :development do

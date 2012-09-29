@@ -75,7 +75,7 @@ describe FoodItem do
     end 
     describe 'when its dining common consists of a existent UCSB dining common name' do
       it "should be valid" do
-        @existent_dining_commons.each do |existent_dining_common|
+        @existent_dining_commons.each do  |existent_dining_common|
           @food_item.dining_common = existent_dining_common
           should be_valid
         end
@@ -231,7 +231,7 @@ describe FoodItem do
         end     
         it "should be invalid when its date represents a date in the past" do
           # Yesterday's date
-          @food_item.date = Date.yesterday
+          @food_item.date = Date.today - 1
           should be_invalid
           # 5 days before today
           @food_item.date = Date.today - 5

@@ -1,0 +1,47 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import "bootstrap";  
+
+$navBarHeight: 40px;
+
+body {
+  
+  background: #E4FFB9;
+}
+h4 {
+  color: lightblack;
+  text-align: center;
+}
+
+// Navigation bar
+.navbar { 
+  margin-bottom: 0px;
+    border-bottom:3px solid lightgreen;
+}
+
+.navbar-inner {
+  height: $navBarHeight;
+}
+
+.container {
+  width: 400px;
+  height: 60px;
+  background: lightblue;
+  border-left:3px solid lightgreen;
+  border-right:3px solid lightgreen;
+  border-bottom:3px solid lightgreen;
+}
+
+// Search form
+.form-search {
+  text-align: center; 
+  padding-top: 15px;
+}
+.btn {
+  background: green
+}
+  
+
+
+
