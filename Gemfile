@@ -9,17 +9,8 @@ gem 'rails', '3.2.8'
 gem 'pg'
 # Full text searching in PostgreSQL database 
 gem 'pg_search'
-# Document schema in model
-gem 'annotate'
 # Agent to make HTTP requests
 gem 'mechanize'
-# Pretty console output
-gem 'hirb'
-# Automate loading development environment
-gem 'consular'
-gem 'consular-gnome-terminal'
-# Add color to text outputs
-gem 'colorize'
 # Jquery
 gem 'jquery-rails'
 # Haml
@@ -29,6 +20,15 @@ gem 'bootstrap-sass'
 
 # Rspec testing framework
 group :test, :development do
+  # Pretty console output
+  gem 'hirb'
+  # Automate loading development environment
+  gem 'consular'
+  gem 'consular-gnome-terminal'
+  # Add color to text outputs
+  gem 'colorize'
+  # Document schema in model
+  gem 'annotate'
   gem 'rspec-rails'
   gem 'guard-rspec'
 end
