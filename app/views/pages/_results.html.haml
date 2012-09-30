@@ -4,9 +4,12 @@
 - else
   %table.table.table-hover
     %tr
-      %th Item
-      %th When
-      %th Where
+      %th
+        = sort_link( 'name', 'Item')
+      %th
+        = sort_link "date", 'When'
+      %th
+        = sort_link 'dining_common', 'Where'
     - @food_items.each do |food_item|
       %tr
         %td= "#{food_item.name} [#{food_item.subcategory}]"
