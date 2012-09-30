@@ -1,85 +1,5 @@
 
 
-Daily Menu for Ortega at 2012-09-28 : Breakfast
-	Oatmeal (vgn), Hot Foods
-	Make Your Own Waffles (v), Hot Foods
-	Fresh Scrambled Eggs (v), Hot Foods
-	Scrambled Egg Whites (v), Hot Foods
-	Huevos Rancheros (v), Hot Foods
-	Bacon, Hot Foods
-	Potatoes O'brien (vgn), Hot Foods
-	Chicken Lettuce Cup w/nuts, Bakery
-	Bagels- See Breads/Cereals for Choices, Bakery
-	Orange Scone (v), Bakery
-
-
-Daily Menu for Ortega at 2012-09-28 : Lunch
-	Iceberg Lettuce, Salads
-	Bacon, Salads
-	Bleu Cheese (v), Salads
-	Colorful Coleslaw Salad (v), Salads
-	Franks Under Cover, Hot Foods
-	Cashew Chicken (w/nuts), Hot Foods
-	Black Bean Tostada (v), Hot Foods
-	Fresh Spinach (vgn), Hot Foods
-	Fish Sandwich, Hot Foods
-	Vegetable Burger (vgn), Hot Foods
-	Krinkle Cut French Fries (vgn), Hot Foods
-	New England Clam Chowder, Hot Foods
-	Brown Rice (vgn), Hot Foods
-	Pinto Beans (vgn), Hot Foods
-	Whole Wheat Tortilla, Hot Foods
-	Baked Potatoes (vgn), Hot Foods
-	Roast Beef & Swiss Panini, Panini/Pizza
-	Graham Roll, Bakery
-	Carribean Coconut Bread (v), Bakery
-	Toffee Square (w/nuts) (v), Bakery
-	California Sushi Roll, Sushi
-	Vegetable Sushi Roll (vgn), Sushi
-	Sandwiches Grilled to Order, Grilled Sandwiches to Order
-	American Cheese (v), Grilled Sandwiches to Order
-	Swiss Cheese (v), Grilled Sandwiches to Order
-	Tuna Salad, Grilled Sandwiches to Order
-	Sliced Turkey, Grilled Sandwiches to Order
-	Sliced Ham, Grilled Sandwiches to Order
-	Sliced Roast Beef, Grilled Sandwiches to Order
-	Salami Italian Dry, Grilled Sandwiches to Order
-	Sliced Turkey Pastrami, Grilled Sandwiches to Order
-
-
-Daily Menu for Ortega at 2012-09-28 : Dinner
-	Caesar Salad, Salads
-	Deep Fried Snapper, Hot Foods
-	Pork Loin Roast With Garlic and Ginger, Hot Foods
-	Potato Gorda with Black Beans (v), Hot Foods
-	Honey Spiced Sweet Potatoes (v), Hot Foods
-	Vegetable Stir Fry (vgn), Hot Foods
-	Fresh Steamed Cauliflower (vgn), Hot Foods
-	Potato Cheese Soup (v), Hot Foods
-	Turkey Sausage Marinara Sauce, Hot Foods
-	Creamy Pesto Sauce (v), Hot Foods
-	Rigatoni (v), Hot Foods
-	Brown Rice (vgn), Hot Foods
-	Sticky Rice (vgn), Hot Foods
-	Pinto Beans (vgn), Hot Foods
-	Whole Wheat Tortilla, Hot Foods
-	Baked Potatoes (vgn), Hot Foods
-	Nacho Bar, Specialty Bar
-	Nacho Cheese Sauce (v), Specialty Bar
-	Spiced Ground Beef, Specialty Bar
-	Tortilla Chips (v), Specialty Bar
-	Refried Beans (vgn), Specialty Bar
-	Sliced Olives (vgn), Specialty Bar
-	Sliced Jalapeno Peppers (vgn), Specialty Bar
-	Sour Cream (v), Specialty Bar
-	Fresh Salsa (vgn), Specialty Bar
-	Green Onion (vgn), Specialty Bar
-	Cracked Wheat Bread (v), Bakery
-	Vanilla Cake w/Strawberry Icing (v), Bakery
-	California Sushi Roll, Sushi
-	Vegetable Sushi Roll (vgn), Sushi
-
-
 Daily Menu for Ortega at 2012-10-01 : Breakfast
 	Oatmeal (vgn), Hot Foods
 	Make Your Own Waffles (v), Hot Foods
@@ -393,6 +313,82 @@ Daily Menu for Ortega at 2012-10-04 : Dinner
 	Tempura Onion Sushi Roll (v), Sushi
 
 
+Daily Menu for Ortega at 2012-10-05 : Breakfast
+	Oatmeal (vgn), Hot Foods
+	Arroz Con Leche (v), Hot Foods
+	Make Your Own Waffles (v), Hot Foods
+	Fresh Scrambled Eggs (v), Hot Foods
+	Scrambled Egg Whites (v), Hot Foods
+	Eggs Benedict, Hot Foods
+	Fried Red Potatoes with Onions (vgn), Hot Foods
+	Cinnamon Roll (v), Bakery
+	Chocolate Chip Scone (v), Bakery
+
+
+Daily Menu for Ortega at 2012-10-05 : Lunch
+	Cobb Salad, Salads
+	Macaroni Salad (v), Salads
+	Fish Taco, Hot Foods
+	Chicken Lettuce Cup w/nuts, Hot Foods
+	Brown Rice (vgn), Hot Foods
+	Cheese Lasagna (v), Hot Foods
+	Steamed Zucchini (vgn), Hot Foods
+	Turkey Burger, Hot Foods
+	Vegetable Burger (vgn), Hot Foods
+	Krinkle Cut French Fries (vgn), Hot Foods
+	New England Clam Chowder, Hot Foods
+	Basmati Rice (vgn), Hot Foods
+	Black Beans (vgn), Hot Foods
+	Whole Wheat Tortilla, Hot Foods
+	Baked Potatoes (vgn), Hot Foods
+	Meat Lovers Pizza, Panini/Pizza
+	Olive Roll (v), Bakery
+	M&M Cookie (v), Bakery
+	Orange Bread (v), Bakery
+	California Sushi Roll, Sushi
+	Vegetable Sushi Roll (vgn), Sushi
+	American Cheese (v), Grilled Sandwiches to Order
+	Swiss Cheese (v), Grilled Sandwiches to Order
+	Tuna Salad, Grilled Sandwiches to Order
+	Sliced Turkey, Grilled Sandwiches to Order
+	Sliced Ham, Grilled Sandwiches to Order
+	Sliced Roast Beef, Grilled Sandwiches to Order
+	Salami Italian Dry, Grilled Sandwiches to Order
+	Sliced Turkey Pastrami, Grilled Sandwiches to Order
+
+
+Daily Menu for Ortega at 2012-10-05 : Dinner
+	Caesar Salad, Salads
+	Chicken Fajita, Hot Foods
+	Spiral Cut Ham, Hot Foods
+	Thai Tofu Curry and Vegetables (vgn), Hot Foods
+	Scalloped Potatoes (v), Hot Foods
+	Fresh Broccoli Spears (vgn), Hot Foods
+	Mixed Vegetables (vgn), Hot Foods
+	Chicken Noodle Soup, Hot Foods
+	Marinara Sauce w/ Meat, Hot Foods
+	Garlic Cream Sauce with Herbs (v), Hot Foods
+	Penne Pasta (v), Hot Foods
+	Brown Rice (vgn), Hot Foods
+	Black Beans (vgn), Hot Foods
+	Whole Wheat Tortilla, Hot Foods
+	Baked Potatoes (vgn), Hot Foods
+	Nacho Bar, Specialty Bar
+	Nacho Cheese Sauce (v), Specialty Bar
+	Tortilla Chips (v), Specialty Bar
+	Sliced Olives (vgn), Specialty Bar
+	Sliced Jalapeno Peppers (vgn), Specialty Bar
+	Sour Cream (v), Specialty Bar
+	Fresh Salsa (vgn), Specialty Bar
+	Refried Beans (vgn), Specialty Bar
+	Green Onion (vgn), Specialty Bar
+	Spiced Ground Beef, Specialty Bar
+	Onion Bread (v), Bakery
+	Banana Nut Cake w/Icing (w/nuts) (v), Bakery
+	California Sushi Roll, Sushi
+	Vegetable Sushi Roll (vgn), Sushi
+
+
 Salad Bar for Ortega at  : 
 	Organic Baby Spinach (vgn), Fresh Items
 	Organic Mixed Green Lettuce (vgn), Fresh Items
@@ -585,65 +581,6 @@ Beverages for Ortega at  :
 	Splenda Artificial Sweetner, Accompaniments
 	Granulated Sugar (vgn), Accompaniments
 	Half & Half (v), Accompaniments
-
-
-Daily Menu for De La Guerra at 2012-09-28 : Lunch
-	Pasta Fazool Soup (vgn), Blue Plate Special
-	Swiss Chard & Herb Tart (v), Blue Plate Special
-	Fresh Spinach w/Garlic (vgn), Blue Plate Special
-	Baked Potato (vgn), Blue Plate Special
-	Carnitas Taco, Taqueria (East Side)
-	Potato Gordas w/ Black Beans (v), Taqueria (East Side)
-	Rice w/Cilantro and Lime (vgn), Taqueria (East Side)
-	Black Beans (vgn), Taqueria (East Side)
-	Flour Tortilla (vgn), Taqueria (East Side)
-	Corn Tortilla, Taqueria (East Side)
-	Wheat Flour Tortilla, Taqueria (East Side)
-	Fire Roasted Tomato Salsa (vgn), Taqueria (East Side)
-	Salami Pizza, Pizza
-	Vegetable Pizza (v), Pizza
-	Herb Breadsticks (vgn), Pizza
-	Kung Pao Beef (w/nuts), To Order
-	Vegetable & Tofu Kung Pao (w/nuts) (vgn), To Order
-	Long Grain Rice (vgn), To Order
-	Brown Rice (vgn), To Order
-	Char Burger, Grill (Cafe)
-	Black Bean Burger (vgn), Grill (Cafe)
-	Grilled Turkey Pastrami & Swiss, Grill (Cafe)
-	Shoestring French Fries (vgn), Grill (Cafe)
-	Pasta Salad w/ Chicken & Sundried Tomato, Salads/Deli (West Side)
-	Marinated Italian Vegetable Salad (vgn), Salads/Deli (West Side)
-	Cracked Wheat Roll (v), Bakery
-	Chocolate Chip Cookie (v), Bakery
-	Jelly Bar Spritz (v), Bakery
-
-
-Daily Menu for De La Guerra at 2012-09-28 : Dinner
-	Vegetable Soup (vgn), Blue Plate Special
-	Char Grilled Pork Chops, Blue Plate Special
-	Hot Spiced Apples (vgn), Blue Plate Special
-	Fresh Carrots w/Thyme (vgn), Blue Plate Special
-	Lyonnaise Potatoes (v), Blue Plate Special
-	Spinach & Feta Turnover (v), Blue Plate Special
-	Baked Potato (vgn), Blue Plate Special
-	Beef Nachos, Taqueria (East Side)
-	Bean & Cheese Sopes (v), Taqueria (East Side)
-	Rice w/Cilantro and Lime (vgn), Taqueria (East Side)
-	Black Beans (vgn), Taqueria (East Side)
-	Flour Tortilla (vgn), Taqueria (East Side)
-	Corn Tortilla, Taqueria (East Side)
-	Wheat Flour Tortilla, Taqueria (East Side)
-	Fire Roasted Tomato Salsa (vgn), Taqueria (East Side)
-	Salami Pizza, Pizza
-	Vegetable Pizza (v), Pizza
-	Herb Breadsticks (vgn), Pizza
-	Chicken Chow Mein, To Order
-	Vegetable Chow Mein (vgn), To Order
-	Long Grain Rice (vgn), To Order
-	Brown Rice (vgn), To Order
-	Caesar Salad, Salads/Deli (West Side)
-	Rosemary Bread (v), Bakery
-	Toll House Pie, Bakery
 
 
 Daily Menu for De La Guerra at 2012-09-29 : Dinner
@@ -1031,6 +968,64 @@ Daily Menu for De La Guerra at 2012-10-04 : Late Night
 	Rice Krispie Treat (v), Bakery
 
 
+Daily Menu for De La Guerra at 2012-10-05 : Lunch
+	Tortilla Soup (vgn), Blue Plate Special
+	Pulled Pork Sandwich, Blue Plate Special
+	Sauteed Zucchini w/ Garlic (vgn), Blue Plate Special
+	Baked Potato (vgn), Blue Plate Special
+	Beef Taquito, Taqueria (East Side)
+	Bean and Rice Wet Burrito (vgn), Taqueria (East Side)
+	Green Rice (vgn), Taqueria (East Side)
+	Black Beans (vgn), Taqueria (East Side)
+	Flour Tortilla (vgn), Taqueria (East Side)
+	Corn Tortilla, Taqueria (East Side)
+	Wheat Flour Tortilla, Taqueria (East Side)
+	Fresh Tomato Salsa (vgn), Taqueria (East Side)
+	BBQ Chicken Pizza, Pizza
+	Cheese Pizza (v), Pizza
+	Herb Breadsticks (vgn), Pizza
+	Turkey Stir Fry with Vegetables & Rice, To Order
+	Vegetable Noodle Stir Fry (vgn), To Order
+	Long Grain Rice (vgn), To Order
+	Brown Rice (vgn), To Order
+	Char Burger, Grill (Cafe)
+	Gardenburger (vgn), Grill (Cafe)
+	Grilled Cheese w/Tomato (v), Grill (Cafe)
+	Krinkle Cut French Fries (vgn), Grill (Cafe)
+	Mediterranean Couscous Salad (w/nuts)(v), Salads/Deli (West Side)
+	Marinated Vegetable Salad (vgn), Salads/Deli (West Side)
+	Sour Cream & Chive Roll (v), Bakery
+	Oatmeal Chocolate Chip Cookie (v), Bakery
+	Zebra Bar (w/nuts) (v), Bakery
+
+
+Daily Menu for De La Guerra at 2012-10-05 : Dinner
+	Tomato Rice Soup (v), Blue Plate Special
+	Grilled Swai (Sustainable), Blue Plate Special
+	Stir Fry Vegetables (vgn), Blue Plate Special
+	Risotto with Fresh Mushrooms (v), Blue Plate Special
+	Baked Potato (vgn), Blue Plate Special
+	Carnitas Taco, Taqueria (East Side)
+	Bean and Cheese Tostada (v), Taqueria (East Side)
+	Green Rice (vgn), Taqueria (East Side)
+	Black Beans (vgn), Taqueria (East Side)
+	Flour Tortilla (vgn), Taqueria (East Side)
+	Corn Tortilla, Taqueria (East Side)
+	Wheat Flour Tortilla, Taqueria (East Side)
+	Fresh Tomato Salsa (vgn), Taqueria (East Side)
+	BBQ Chicken Pizza, Pizza
+	Cheese Pizza (v), Pizza
+	Herb Breadsticks (vgn), Pizza
+	Marinara Sauce w/ Sausage, To Order
+	Penne Mostacioli (vgn), To Order
+	Pasta Primavera (v), To Order
+	Long Grain Rice (vgn), To Order
+	Brown Rice (vgn), To Order
+	Caesar Salad, Salads/Deli (West Side)
+	Pesto Bread (v), Bakery
+	Yellow Cake w/Buttercream Frosting (v), Bakery
+
+
 Salad Bar for De La Guerra at  : 
 	Baby Spinach (vgn), Fresh Items
 	Organic Mixed Green Lettuce (vgn), Fresh Items
@@ -1216,73 +1211,6 @@ Beverages for De La Guerra at  :
 	Organic Full Body Roast Coffee (vgn), Hot Beverages
 	Half & Half (v), Accompaniments
 	Granulated Sugar (vgn), Accompaniments
-
-
-Daily Menu for Carrillo at 2012-09-28 : Breakfast
-	Cage Free Eggs Scrambled (v), Grill (Cafe)
-	Make Your Own Waffle (v), Grill (Cafe)
-	Blueberry Pancakes (v), Grill (Cafe)
-	Scrambled Eggs w/ Chicken, Grill (Cafe)
-	Oatmeal (vgn), Grill (Cafe)
-	Arroz Con Leche (v), Grill (Cafe)
-	Potatoes O'Brien (vgn), Grill (Cafe)
-	Apple Bishop's Coffee Cake (v), Bakery
-	Whole Wheat Banana Bread (v), Bakery
-	Bagels-See Breads/Cereals for Choices, Bakery
-
-
-Daily Menu for Carrillo at 2012-09-28 : Lunch
-	Chinese Chicken Salad (w/nuts), Salads
-	Fresh Garden Pasta Salad (vgn), Salads
-	Sliced Natural Swiss (v), Deli
-	Tuna Salad, Deli
-	Sliced Cheddar Cheese (v), Deli
-	Sliced Turkey Pastrami, Deli
-	Beef Gyro, Mongolian Grill
-	Rice w/Cilantro and Onions (vgn), Mongolian Grill
-	Cucumber Tzatziki (v), Mongolian Grill
-	Beef Noodle Soup, Euro
-	Pasta Pronto (vgn), Euro
-	Eggplant Parmigiano (v), Euro
-	Steamed Crookneck Squash (vgn), Euro
-	Turkey Pot Pie, Euro
-	Brown Rice (vgn), Euro
-	Pepperoni, Pizza
-	Three Cheese on Wheat (v), Pizza
-	Sweet Potato Baked (vgn), Grill (Cafe)
-	Baked Potato (vgn), Grill (Cafe)
-	Krinkle Cut Fries (vgn), Grill (Cafe)
-	Charburger, Grill (Cafe)
-	Grilled Vegetable Burger (vgn), Grill (Cafe)
-	Grilled Cheese on Sourdough (v), Grill (Cafe)
-	Almond Braids (w/nuts) (v), Bakery
-	Jelly Bar Spritz (v), Bakery
-	Toffee Square (w/nuts) (v), Bakery
-
-
-Daily Menu for Carrillo at 2012-09-28 : Dinner
-	Caesar Salad, Salads
-	Tortilla Chips and Salsa (vgn), Deli
-	Pita Chips & Hummus (v), Deli
-	Sticky Rice (vgn), Mongolian Grill
-	Vegetable Fried Rice (v), Mongolian Grill
-	Cashew Chicken (w/nuts), Mongolian Grill
-	Peas with Onions (vgn), Euro
-	Broccoli Stuffed Tomatoes (v), Euro
-	Rotisserie Pork Loin, Euro
-	Chutney (vgn), Euro
-	Mashed Potatoes (v), Euro
-	Cream of Mushroom Soup (v), Pasta
-	Penne Pasta (vgn), Pasta
-	Sausage Marinara Sauce, Pasta
-	Long Grain Rice (vgn), Pasta
-	Fettucini Carolina (v), Pasta
-	Baked Potato (vgn), Pasta
-	Sweet Potato Baked (vgn), Pasta
-	Pepperoni, Pizza
-	Three Cheese on Wheat (v), Pizza
-	Onion Bread (v), Bakery
-	Very Chocolate Cake w/Choc Icing (v), Bakery
 
 
 Daily Menu for Carrillo at 2012-09-29 : Dinner
@@ -1639,6 +1567,69 @@ Daily Menu for Carrillo at 2012-10-04 : Dinner
 	Banana Macadamia Nut Cake (w/nuts) (v), Bakery
 
 
+Daily Menu for Carrillo at 2012-10-05 : Breakfast
+	Cage Free Eggs Scrambled (v), Grill (Cafe)
+	Bacon and Cheese Omelet, Grill (Cafe)
+	Make Your Own Waffle (v), Grill (Cafe)
+	Oatmeal (vgn), Grill (Cafe)
+	Arroz Con Leche (v), Grill (Cafe)
+	Western Hash Browns (vgn), Grill (Cafe)
+	Bran Muffin (v), Bakery
+	Granola Coffee Cake (w/nuts) (v), Bakery
+
+
+Daily Menu for Carrillo at 2012-10-05 : Lunch
+	Gazpacho Salad (vgn), Salads
+	3 Salad Spinach blue cheese (w/nuts), Salads
+	Roasted Vegetables (vgn), Deli
+	Sliced Cheddar Cheese (v), Deli
+	Sliced Provolone Cheese (v), Deli
+	Sliced Turkey, Deli
+	Pinto Beans (vgn), Mongolian Grill
+	Tacos Al Pastor, Mongolian Grill
+	Long Grain Rice (vgn), Euro
+	Steamed Zucchini (vgn), Euro
+	Chicken Caesar Sandwich, Euro
+	Marinated Italian Vegetables (vgn), Euro
+	New England Clam Chowder, Euro
+	Bacon Tomato Basil, Pizza
+	Quattro Formaggio on Wheat (v), Pizza
+	Sweet Potato Baked (vgn), Grill (Cafe)
+	Baked Potato (vgn), Grill (Cafe)
+	Krinkle Cut Fries (vgn), Grill (Cafe)
+	Cheeseburger, Grill (Cafe)
+	Grilled Vegetable Burger (vgn), Grill (Cafe)
+	Grilled Ham & Swiss on Sourdough, Grill (Cafe)
+	Onion Roll (v), Bakery
+	Chocolate Chip Cookie (v), Bakery
+	Classic French Napoleon (v), Bakery
+
+
+Daily Menu for Carrillo at 2012-10-05 : Dinner
+	Caesar Salad, Salads
+	Tortilla Chips and Salsa (vgn), Deli
+	Pita Chips & Hummus (v), Deli
+	Sticky Rice (vgn), Mongolian Grill
+	Fire Roasted Tomato Salsa (vgn), Mongolian Grill
+	Herb Marinated Swai Fish, Mongolian Grill
+	Five Spice Vegetable Stir Fry (vgn), Mongolian Grill
+	Sauteed Vegetables Rice and Beans (v), Euro
+	Rotisserie Chicken, Euro
+	Carrots with Lemon Butter (v), Euro
+	Potato Gorda (v), Euro
+	Pesto Zucchini Soup (v), Pasta
+	Small Shells w/Eggplant & Marinara (vgn), Pasta
+	Baked Potato (vgn), Pasta
+	Fettucini (vgn), Pasta
+	Jasmine Rice (vgn), Pasta
+	White Wine Garlic Sauce w/Chicken, Pasta
+	Sweet Potato Baked (vgn), Pasta
+	Bacon Tomato Basil, Pizza
+	Quattro Formaggio on Wheat (v), Pizza
+	Ricotta Pepper Bread (v), Bakery
+	Coconut Cream Pie (v), Bakery
+
+
 Salad Bar for Carrillo at  : 
 	Fresh Spinach (vgn), Fresh Items
 	Organic Mixed Green Lettuce (vgn), Fresh Items
@@ -1840,55 +1831,6 @@ Beverages for Carrillo at  :
 	Sweet 'n' Low Sweetner (vgn), Accompaniments
 	Equal Artificial Sweetner (vgn), Accompaniments
 	Half & Half (v), Accompaniments
-
-
-Daily Menu for Portola at 2012-09-28 : Breakfast
-	Oatmeal (vgn), Hot Foods
-	Fresh Scrambled Eggs (v), Hot Foods
-	Banana Chocolate Chip Pancakes (v), Hot Foods
-	Ham & Cheddar Cheese Quiche, Hot Foods
-	Bacon, Hot Foods
-	Home Fried Potatos (vgn), Hot Foods
-	Donut (v), Bakery
-	Cream Cheese Strudel (v), Bakery
-
-
-Daily Menu for Portola at 2012-09-28 : Lunch
-	Tabouli Salad (vgn), Salads
-	Roasted Tomato Pasta Salad (vgn), Salads
-	Sliced Italian Dry Salami, Deli
-	Sliced Ham, Deli
-	Swiss Cheese (v), Deli
-	Provolone Cheese (v), Deli
-	Rosemary Roasted Chicken Quarters, Hot Foods
-	Root Vegetable Pot Pie (v), Hot Foods
-	Homemade au Gratin Potatoes (v), Hot Foods
-	Roasted Vegetables (vgn), Hot Foods
-	Sugar Snap Peas (vgn), Hot Foods
-	Cheeseburger, Sizzle Line
-	Hamburger, Sizzle Line
-	Gardenburger (vgn), Sizzle Line
-	Turkey Melt, Sizzle Line
-	Waffle Cut French Fries (vgn), Sizzle Line
-	Chocolate Cherry Bread (v), Bakery
-	Peach Crisp (v), Bakery
-
-
-Daily Menu for Portola at 2012-09-28 : Dinner
-	Red Potato Salad w/ Dill (v), Salads
-	Beef Milanesa, Hot Foods
-	Broccoli Stuffed Tomatoes (v), Hot Foods
-	Fresh Mashed Potatoes (v), Hot Foods
-	Beef Gravy, Hot Foods
-	Fresh Vegetable Medley (vgn), Hot Foods
-	Sauteed Butternut Squash (v), Hot Foods
-	Carne Asada Taco, Sizzle Line
-	Vegetable Taco (v), Sizzle Line
-	Black Beans (vgn), Sizzle Line
-	Rice w/Cilantro and Lime (v), Sizzle Line
-	Pico De Gallo (vgn), Sizzle Line
-	Banana Nut Bread (w/nuts) (v), Bakery
-	Yellow Cupcake w/Lemon Buttercream(v), Bakery
 
 
 Daily Menu for Portola at 2012-09-29 : Dinner
@@ -2161,6 +2103,62 @@ Daily Menu for Portola at 2012-10-04 : Dinner
 	Pico De Gallo (vgn), Sizzle Line
 	Pesto Bread (v), Bakery
 	Killer Brownie (w/nuts) (v), Bakery
+
+
+Daily Menu for Portola at 2012-10-05 : Breakfast
+	Oatmeal (vgn), Hot Foods
+	Fresh Scrambled Eggs (v), Hot Foods
+	Whole Wheat Strawberry Pancake (v), Hot Foods
+	Bacon, Hot Foods
+	Cottage Fried Potatoes (vgn), Hot Foods
+	Donut (v), Bakery
+	Orange Scone (v), Bakery
+
+
+Daily Menu for Portola at 2012-10-05 : Lunch
+	Chicken Curry Salad (w/nuts), Salads
+	Three Bean Salad (vgn), Salads
+	Egg Salad (v), Deli
+	Sliced Italian Dry Salami, Deli
+	Provolone Cheese (v), Deli
+	Sliced Cheddar Cheese (v), Deli
+	Beef Meatloaf w/Tomato Sauce, Hot Foods
+	Fresh Mashed Potatoes (v), Hot Foods
+	Egg Noodles With Broccoli Alfredo (v), Hot Foods
+	Steamed Crookneck Squash (vgn), Hot Foods
+	Scandinavian Mixed Vegetables (vgn), Hot Foods
+	Hamburger, Sizzle Line
+	Cheeseburger, Sizzle Line
+	Malibu Burger (vgn), Sizzle Line
+	Grilled Cheese w/Ham/Turk on Wheat, Sizzle Line
+	Steak Fries (vgn), Sizzle Line
+	Three Grain Bread (v), Bakery
+	Peanut Butter Cookie (w/nuts) (v), Bakery
+
+
+Daily Menu for Portola at 2012-10-05 : Dinner
+	Grilled Yellowtail, Hot Foods
+	Chermoula Sauce (vgn), Hot Foods
+	Fresh Herb Polenta w/Marinara (vgn), Hot Foods
+	Roasted Barley and Mushroom Risotto (v), Hot Foods
+	Fresh Broccoli Spears (vgn), Hot Foods
+	Fresh Vegetable Medley (vgn), Hot Foods
+	Taco Nacho Line, Sizzle Line
+	Taco Shells, Sizzle Line
+	Tortilla Chips & Salsa (vgn), Sizzle Line
+	Pinto Beans (vgn), Sizzle Line
+	Spiced Ground Beef, Sizzle Line
+	Cheese Sauce (v), Sizzle Line
+	Chopped Lettuce and Tomato (vgn), Sizzle Line
+	Shredded Ched/Jack Cheese, Sizzle Line
+	Diced Onions (vgn), Sizzle Line
+	Sliced Jalapeno Peppers (vgn), Sizzle Line
+	Oil-cured Black Olives (vgn), Sizzle Line
+	Sour Cream (v), Sizzle Line
+	Guacamole (vgn), Sizzle Line
+	Fresh Cilantro (vgn), Sizzle Line
+	Crusty French Bread (v), Bakery
+	Banana Nut Cake (w/nuts)(v), Bakery
 
 
 Salad Bar for Portola at  : 

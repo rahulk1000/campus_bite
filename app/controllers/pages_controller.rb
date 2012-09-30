@@ -1,16 +1,15 @@
 class PagesController < ApplicationController
+  respond_to :html, :js
   def home
-    if params[:search].nil?
-      render inline: "", layout: 'application'  
-    else
-      @food_items = if params[:search].blank? 
-        [] 
-      else 
-        FoodItem.search_by_name(params[:search]).
-                 where("date >= ? OR date IS ?", Date.today, nil).
-                 order("name ASC")
-      end       
-    end
+    @food_items = if params[:search].blank?
+                    [ ]
+                  else
+                    FoodItem.search_by_name(params[:search]).
+                             where("date >= ? OR date IS ?", Date.today, nil).
+                            order("name ASC")
+                  end
+                
+    respond_with(@food_items)
   end
   def items
   end

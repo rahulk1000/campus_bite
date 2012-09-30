@@ -1,0 +1,15 @@
+- if @food_items.empty?
+  #no-results-container.container
+    %h4 Sorry, no results were found for your search in this week's menu. Try another search!
+- else
+  %table.table.table-hover
+    %tr
+      %th Item
+      %th When
+      %th Where
+    - @food_items.each do |food_item|
+      %tr
+        %td= "#{food_item.name} [#{food_item.subcategory}]"
+        %td
+          = food_item.date.nil? ? "Everyday (could vary)" : "#{food_item.date.strftime("%A, %B %d %Y")} at #{food_item.meal_type}"                                                                                                                     |
+        %td= food_item.dining_common

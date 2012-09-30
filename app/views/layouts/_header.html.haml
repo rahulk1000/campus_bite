@@ -2,6 +2,7 @@
   .navbar-inner
     %h4 Campus Bite: Search your favorite UCSB dining common food item
 .container#search-container
-  %form.form-search
-    %input.input-large.search-query{name: "search", size: "20", type: "text"}/
-    %button.btn.btn-primary{:type => "submit"} Search
+  = form_tag nil, method: :get, class: 'form-search', remote: true do
+    = text_field_tag 'search', nil, class: 'search-query', size: '20'
+    = button_tag 'Search',  class: 'btn btn-primary'
+    
