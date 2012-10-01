@@ -11,12 +11,7 @@ class PagesController < ApplicationController
                   end
                 
     respond_with(@food_items)
-  end
-  
-  def items
-    
-  end
-  
+  end 
   private
   def sort_column
     %w[name date dining_common].include?(params[:sort]) ? params[:sort] : 'date'

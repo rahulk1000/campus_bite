@@ -8,11 +8,4 @@ describe PagesController do
       response.should be_success
     end
   end
-  describe "GET 'items'" do
-    it "returns http success" do
-      get 'items'
-      response.should be_success
-    end
-  end
-
 end

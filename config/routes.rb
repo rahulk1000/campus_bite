@@ -1,6 +1,5 @@
 CampusBite::Application.routes.draw do
   root to: "pages#home"
-  get "pages/items"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
