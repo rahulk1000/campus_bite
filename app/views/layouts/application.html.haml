@@ -7,5 +7,6 @@
     = csrf_meta_tags
   %body
     = render 'layouts/header'
+    = image_tag('results_loading_bar.gif', id: 'results-loading-bar')
     %div#results
       = yield

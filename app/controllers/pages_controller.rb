@@ -5,9 +5,9 @@ class PagesController < ApplicationController
     @food_items = if params[:search].blank?
                     [ ]
                   else
-                    FoodItem.order(sort_column + ' ' + sort_direction).
-                             search_by_name(params[:search]).
-                             where("date >= ? OR date IS ?", Date.today, nil)                            
+                    FoodItem.search_by_name(params[:search]).
+                             where("date >= ? OR date IS ?", Date.today, nil).
+                             reorder(sort_column + ' ' + sort_direction)                           
                   end
                 
     respond_with(@food_items)
