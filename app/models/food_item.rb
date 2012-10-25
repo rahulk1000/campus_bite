@@ -12,6 +12,8 @@
 #  created_at    :datetime         not null
 #  updated_at    :datetime         not null
 #
+
+# Assures the value being validated is of class 'Date' and contains the current or future date
 class ValidDateValidator < ActiveModel::EachValidator
   def validate_each(record, attribute, value)
     unless value.class == Date && value >= Date.today
@@ -22,6 +24,7 @@ end
 class FoodItem < ActiveRecord::Base
   # Full text searching
   include PgSearch
+  # Add a scope for full text searching on 'name' and 'subcategory' attributes
   pg_search_scope :search_by_name, against: [:name, :subcategory], using: { tsearch: { dictionary: 'english' } }
   attr_accessible :category, :date, :dining_common, :meal_type, :name, :subcategory
   before_validation :strip_whitespace
@@ -41,8 +44,7 @@ class FoodItem < ActiveRecord::Base
                         allow_nil: true  
   validates :date, valid_date: true, allow_nil: true
   
-  validate :daily_menu_item_must_have_non_nil_meal_type, 
-           :daily_menu_item_must_have_non_nil_date
+  validate :food_item_must_have_appropriate_meal_type_value, :food_item_must_have_appropriate_date_value
 
   
 
@@ -54,12 +56,12 @@ class FoodItem < ActiveRecord::Base
     self.subcategory = subcategory.to_s.strip
     self.meal_type = meal_type.to_s.strip if !meal_type.nil?
   end 
-  def daily_menu_item_must_have_non_nil_meal_type
+  def food_item_must_have_appropriate_meal_type_value
     if (category=='Daily Menu' && meal_type.nil?) || (category!='Daily Menu' && !meal_type.nil?)
       errors.add(:meal_type, "should contain a meal type if and only if category is 'Daily Menu', should be nil for all other categories")     
     end
   end
-  def daily_menu_item_must_have_non_nil_date
+  def food_item_must_have_appropriate_date_value
     if category=='Daily Menu' && date.nil? || (category!='Daily Menu' && !date.nil?)
       errors.add(:date, "should contain a date if and only if category is 'Daily Menu', should be nil for all other categories")     
     end
